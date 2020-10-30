@@ -11,7 +11,16 @@ body{
     margin: 0 auto;
     background-color: aquamarine;
 }
-
+#container2
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #333;
+    margin: 0 auto;
+    background-color: royalblue;
+    color: white;
+}
 #container h1{
     font-size: 20px;
     text-align: center;
