@@ -11,8 +11,14 @@ body{
     margin: 0 auto;
     background-color: aquamarine;
 }
+
 #logo{
     background-color: violet;
+}
+#logofooter
+{
+    background-color: tomato;
+
 }
 #container2
 {
