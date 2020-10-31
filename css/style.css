@@ -11,6 +11,10 @@ body{
     margin: 0 auto;
     background-color: aquamarine;
 }
+#logofooter
+{
+    background-color: tomato;
+}
 #container2
 {
     width: 70%;
